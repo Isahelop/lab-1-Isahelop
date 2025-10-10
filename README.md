@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Angel Isahel Lopez Lopez
+- Matrícula: S25018127
+- Fecha:10/10/2025
 
 ## 🎯 Objetivos
 
